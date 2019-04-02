@@ -3075,7 +3075,7 @@ body {
 .cid-rmrsv1Y7wB {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rmrsv1Y7wB h4 {
   width: 85%;
@@ -3086,8 +3086,8 @@ body {
   color: #767676;
 }
 .cid-rmrsv1Y7wB .card-wrapper {
-  border-top: 1px solid #efefef;
-  background-color: #ffffff;
+  border-top: 1px solid #ff69b4;
+  background-color: #232323;
   position: relative;
   justify-content: unset;
 }
@@ -3111,6 +3111,15 @@ body {
     text-align: center;
     margin: 1rem 0 0 0;
   }
+}
+.cid-rmrsv1Y7wB .card-title {
+  color: #ff69b4;
+}
+.cid-rmrsv1Y7wB .b-descr {
+  color: #ffffff;
+}
+.cid-rmrsv1Y7wB .cost {
+  color: #800080;
 }
 .cid-rmr1KdfAAV .navbar {
   padding: .5rem 0;
